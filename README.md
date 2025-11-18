@@ -23,7 +23,3 @@ Tools Used:
   Power Query Editor,
   Excel dataset.
 
-
-
-
-- Ramaneti Madhulika
