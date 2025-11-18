@@ -1,4 +1,4 @@
-# E-Commerce-sales-dashboard
+# E-Commerce sales dashboard
 E-Commerce Sales Dashboard:
   A Power BI dashboard built to analyze and visualize e-commerce sales performance using basic Power BI features — no DAX formulas used.
 
